@@ -1,1 +1,1 @@
-# The Arch-Linux-Handbook by SunsetZ
+# The Arch-Linux-Handbook by @sunsetzfrags
