@@ -1,1 +1,1 @@
-# The Arch-Linux-Handbook by @sunsetzfrags
+# The Arch-Linux-Handbook - Installation Guide
